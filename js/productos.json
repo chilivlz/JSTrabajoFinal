@@ -1,0 +1,164 @@
+ [
+  
+    {
+        "id": "Ilustraciones-01",
+        "titulo": "Ilustraciones  01",
+        "imagen": "./img/ilustraciones/01.jpg",
+        "categoria": {
+            "nombre": "Ilustraciones01",
+            "id": "Ilustraciones-01"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ilustraciones-02",
+        "titulo": "Ilustraciones  02",
+        "imagen": "./img/ilustraciones/02.jpg",
+        "categoria": {
+            "nombre": "Ilustraciones01",
+            "id": "Ilustraciones-01"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ilustraciones-03",
+        "titulo": "Ilustraciones 03",
+        "imagen": "./img/ilustraciones/03.jpg",
+        "categoria": {
+            "nombre": "Ilustraciones01",
+            "id": "Ilustraciones-01"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ilustraciones-04",
+        "titulo": "Ilustraciones  04",
+        "imagen": "./img/ilustraciones/04.jpg",
+        "categoria": {
+            "nombre": "Ilustraciones01",
+            "id": "Ilustraciones-01"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Ilustraciones-05",
+        "titulo": "Ilustraciones  05",
+        "imagen": "./img/ilustraciones/05.jpg",
+        "categoria": {
+            "nombre": "Ilustraciones01",
+            "id": "Ilustraciones-01"
+        },
+        "precio": 1000
+    },
+    
+    {
+        "id": "coleccion-01",
+        "titulo": "coleccion 2022",
+        "imagen": "./img/coleccion01/01.jpg",
+        "categoria": {
+            "nombre": "coleccion2022",
+            "id": "coleccion-01"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-02",
+        "titulo": "coleccion 2022",
+        "imagen": "./img/coleccion01/02.jpg",
+        "categoria": {
+            "nombre": "coleccion2022",
+            "id": "coleccion-02"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-03",
+        "titulo": "coleccion 2022",
+        "imagen": "./img/coleccion01/03.jpg",
+        "categoria": {
+            "nombre": "coleccion2022",
+            "id": "coleccion-03"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-04",
+        "titulo": "coleccion 2022",
+        "imagen": "./img/coleccion01/04.jpg",
+        "categoria": {
+            "nombre": "coleccion2022",
+            "id": "coleccion-04"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-05",
+        "titulo": "coleccion 2022",
+        "imagen": "./img/coleccion01/05.jpg",
+        "categoria": {
+            "nombre": "coleccion2022",
+            "id": "coleccion-05"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "coleccion-06",
+        "titulo": "coleccion 2022",
+        "imagen": "./img/coleccion01/06.jpg",
+        "categoria": {
+            "nombre": "coleccion2022",
+            "id": "coleccion-06"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fauna-01",
+        "titulo": "fauna-2023",
+        "imagen": "./img/coleccion02/01.jpg",
+        "categoria": {
+            "nombre": "Fauna2023",
+            "id": "fauna-01"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fauna-02",
+        "titulo": "fauna-2023",
+        "imagen": "./img/coleccion02/02.jpg",
+        "categoria": {
+            "nombre": "fauna2023",
+            "id": "fauna-02"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fauna-03",
+        "titulo": "fauna-2023",
+        "imagen": "./img/coleccion02/03.jpg",
+        "categoria": {
+            "nombre": "fauna2023",
+            "id": "fauna-03"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fauna-04",
+        "titulo": "fauna-2023",
+        "imagen": "./img/coleccion02/04.jpg",
+        "categoria": {
+            "nombre": "fauna2023",
+            "id": "fauna-04"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fauna-05",
+        "titulo": "fauna 2023",
+        "imagen": "./img/coleccion02/05.jpg",
+        "categoria": {
+            "nombre": "fauna2023",
+            "id": "fauna-05"
+        },
+        "precio": 1000
+    }
+]
